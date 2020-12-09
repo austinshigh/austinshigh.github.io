@@ -6,3 +6,7 @@ h1{
     height:173px;
     border-radius:5%;
 }
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}

@@ -7,15 +7,8 @@ h1{
     border-radius:5%;
 }
 
-#pro_pic{
-    justify-content: left;
-}
-
-#bio{
-    justify-content: right;
-}
-
 .container {
     display: flex;
+    flex-direction: column;
     justify-content: space-evenly ;
 }

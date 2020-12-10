@@ -31,6 +31,9 @@
     justify-content: center;
     background-color: sandybrown;
 }
+.jumbotron{
+    color: white;
+}
 .horiz{
     display: flex;
     flex-direction: row;

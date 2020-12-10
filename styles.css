@@ -23,11 +23,13 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
+    background-color: lightskyblue;
 }
 #jbottom{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    background-color: lightskyblue;
 }
 .horiz{
     display: flex;

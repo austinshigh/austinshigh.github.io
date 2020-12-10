@@ -2,13 +2,16 @@
     width:126px;
     height:auto;
     border-radius:5%;
-    padding-right:20px;
 }
 
 .build_photos {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly ;
+}
+
+#bio{
+    padding-left:30px;
 }
 
 #box2{

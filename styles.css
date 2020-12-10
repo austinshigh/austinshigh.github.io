@@ -6,6 +6,15 @@ h1{
     height:173px;
     border-radius:5%;
 }
+
+#pro_pic{
+    justify-content: left;
+}
+
+#bio{
+    justify-content: right;
+}
+
 .container {
     display: flex;
     justify-content: space-evenly ;

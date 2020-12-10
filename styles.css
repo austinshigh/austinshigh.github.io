@@ -29,3 +29,8 @@
     flex-direction: column;
     justify-content: center;
 }
+.horiz{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

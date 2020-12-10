@@ -2,7 +2,7 @@
     width:126px;
     height:auto;
     border-radius:5%;
-    padding: 5px;
+    padding-right:20px;
 }
 
 .build_photos {
@@ -16,12 +16,12 @@
     flex-direction: column;
     justify-content: space-evenly;
 }
-.jtop{
+#jtop{
     display: flex;
     flex-direction: row;
     justify-content: center;
 }
-.jbottom{
+#jbottom{
     display: flex;
     flex-direction: column;
     justify-content: center;

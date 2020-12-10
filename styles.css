@@ -18,3 +18,8 @@ h1{
     flex-direction: column;
     justify-content: space-evenly;
 }
+
+.jumbotron{
+    display: flex;
+    flex-direction: row;
+}

@@ -2,7 +2,7 @@
     width:126px;
     height:auto;
     border-radius:5%;
-    padding-right: 30px;
+    padding: 5px;
 }
 
 .build_photos {
@@ -16,7 +16,6 @@
     flex-direction: column;
     justify-content: space-evenly;
 }
-
 .jtop{
     display: flex;
     flex-direction: row;

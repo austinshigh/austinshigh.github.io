@@ -23,13 +23,13 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
-    background-color: sandybrown;
+    background-color: darkslategrey;
 }
 #jbottom{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-color: sandybrown;
+    background-color: darkslategray;
 }
 .jumbotron{
     color: white;
@@ -38,9 +38,11 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
-    flex-shrink: 3;
 }
 .nav{
     justify-content: center;
     padding-top: 10px;
+}
+h3{
+    color:red;
 }

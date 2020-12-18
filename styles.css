@@ -33,16 +33,9 @@
 }
 .nav{
     justify-content: center;
+    font-size: large;
     padding-top: 10px;
 }
 .hC{
     color:blue
-}
-#linkedIn{
-    width:auto;
-    height:20px;
-}
-#gitHub{
-    width:auto;
-    height:20px;
 }

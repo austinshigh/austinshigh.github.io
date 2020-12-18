@@ -19,20 +19,14 @@
     flex-direction: column;
     justify-content: space-evenly;
 }
-#jtop{
+.jumbotron{
+    color: white;
     display: flex;
     flex-direction: column;
     justify-content: center;
     background-color: darkslategrey;
-}
-#jbottom{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    background-color: darkslategray;
-}
-.jumbotron{
-    color: darkslategray;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 .horiz{
     display: flex;

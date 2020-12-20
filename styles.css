@@ -54,6 +54,9 @@
     .buildPhoto1{
         flex-direction: column;
     }
+    .buildPhoto2{
+        flex-direction: row;
+    }
 }
 
 .nav{

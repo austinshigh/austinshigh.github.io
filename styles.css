@@ -2,7 +2,7 @@
     width:126px;
     height:auto;
     border-radius:5%;
-    order:2;
+    justify-content: center;
 }
 
 .build_photos {

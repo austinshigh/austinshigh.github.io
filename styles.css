@@ -32,12 +32,6 @@
     justify-content: center;
 }
 
-#buttons{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
-
 .vert{
     display: flex;
     flex-direction: column;
@@ -87,7 +81,9 @@
 	background: #4676D7;
 	color: #fff;
 	padding: 8px 16px;
-	font-size: 16px;
+    font-size: 16px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .btn:hover{
 	box-shadow: 0 0 0 2px #1d49aa;

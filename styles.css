@@ -38,8 +38,14 @@
     justify-content: center;
 }
 
+.buildPhotos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 @media only screen and (min-width: 700px) {
-    .vert{
+    .buildPhotos{
         flex-direction: row;
     }
 }

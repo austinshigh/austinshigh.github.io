@@ -50,15 +50,6 @@
     justify-content: center;
 }
 
-@media only screen and (min-width: 700px) {
-    .buildPhoto1{
-        flex-direction: column;
-    }
-    .buildPhoto2{
-        flex-direction: row;
-    }
-}
-
 .nav{
     justify-content: center;
     font-size: large;
@@ -72,4 +63,16 @@
 }
 #head{
     justify-content: center;
+}
+
+@media only screen and (min-width: 700px) {
+    .buildPhoto1{
+        flex-direction: column;
+    }
+    .buildPhoto2{
+        flex-direction: row;
+    }
+    #pic{
+        justify-content: center;
+    }
 }

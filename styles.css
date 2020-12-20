@@ -31,11 +31,19 @@
     flex-direction: row;
     justify-content: center;
 }
+
 .vert{
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
+
+@media only screen and (min-width: 700px) {
+    .vert{
+        flex-direction: row;
+    }
+}
+
 .nav{
     justify-content: center;
     font-size: large;

@@ -31,8 +31,11 @@
     flex-direction: row;
     justify-content: center;
 }
-.ctr{
+.horiz{
+    display: flex;
+    flex-direction: row;
     justify-content: center;
+    flex: none;
 }
 
 .vert{

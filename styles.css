@@ -10,8 +10,9 @@
     justify-content: space-evenly ;
 }
 
-#bio{
-    padding-left:30px;
+.bio{
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .box2{

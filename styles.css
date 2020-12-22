@@ -57,6 +57,10 @@
     justify-content: center;
 }
 
+.b2{
+    visibility: hidden;
+}
+
 .nav{
     justify-content: center;
     font-size: large;
@@ -85,8 +89,14 @@
         flex-direction: row;
     }
     .navbar-brand{
-        visibility: visible
-}
+        visibility: visible;
+    }
+    .b1{
+        visibility: hidden;
+    }
+    .b2{
+        visibility: visible;
+    }
 }
 .btn {
 	appearance: none;

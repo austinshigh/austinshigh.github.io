@@ -57,7 +57,7 @@
     justify-content: center;
 }
 
-.b2{
+#b2{
     visibility: hidden;
 }
 
@@ -91,10 +91,10 @@
     .navbar-brand{
         visibility: visible;
     }
-    .b1{
+    #b1{
         visibility: hidden;
     }
-    .b2{
+    #b2{
         visibility: visible;
     }
 }

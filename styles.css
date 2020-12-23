@@ -4,6 +4,10 @@
     border-radius:5%;
 }
 
+.appList{
+    list-style: none;
+}
+
 .build_photos {
     display: flex;
     flex-direction: row;

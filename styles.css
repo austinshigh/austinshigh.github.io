@@ -58,7 +58,7 @@
 }
 
 #b2{
-    visibility: hidden;
+    display: hidden;
 }
 
 .nav{
@@ -78,7 +78,7 @@
 }
 
 .navbar-brand{
-    visibility: hidden;
+    display: hidden;
 }
 
 @media only screen and (min-width: 700px) {
@@ -89,13 +89,13 @@
         flex-direction: row;
     }
     .navbar-brand{
-        visibility: visible;
+        display: visible;
     }
     #b1{
-        visibility: hidden;
+        display: hidden;
     }
     #b2{
-        visibility: visible;
+        display: visible;
     }
 }
 .btn {
